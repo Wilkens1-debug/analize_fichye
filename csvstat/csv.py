@@ -56,4 +56,3 @@ class ExcelStatsAnalyzer:
             return False
 
 
-
